@@ -1,4 +1,4 @@
-# PointGroup
+# PointGroup (Compile Locally)
 ## PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation (CVPR2020)
 ![overview](https://github.com/llijiang/PointGroup/blob/master/doc/overview.png)
 
